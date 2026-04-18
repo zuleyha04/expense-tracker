@@ -60,15 +60,8 @@ npm run dev
 
 Tarayıcıda `http://localhost:5173` adresini aç.
 
-## 📦 Build & Yayınlama
-
-```bash
-# Üretim için derle
-npm run build
-
-# Önizleme
-npm run preview
-```
+## 📦 Yayınlama
+[🔗 Live Demo](https://expense-tracker-zuleyha.netlify.app/)
 
 ## 🧰 Kullanılan Teknolojiler
 
@@ -89,4 +82,3 @@ npm run preview
 
 ---
 
-> Bu proje, Web Geliştirme eğitim programı kapsamında geliştirilmiştir.
