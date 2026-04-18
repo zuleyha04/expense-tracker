@@ -2,8 +2,8 @@
 
 Modern, kullanıcı dostu bir günlük harcama takip uygulaması. React, TypeScript ve Tailwind CSS ile geliştirilmiştir.
 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
 ![Harcama Takibi](https://img.shields.io/badge/React-18-61DAFB?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-06B6D4?logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-4-646CFF?logo=vite)
 
@@ -70,14 +70,6 @@ npm run build
 npm run preview
 ```
 
-### Netlify ile Yayınlama
-
-1. [netlify.com](https://netlify.com) hesabı aç
-2. "Add new site" → "Import an existing project"
-3. GitHub reponuzu bağla
-4. Build ayarları otomatik algılanır (`netlify.toml`)
-5. **Deploy!** 🎉
-
 ## 🧰 Kullanılan Teknolojiler
 
 | Teknoloji | Açıklama |
@@ -89,14 +81,11 @@ npm run preview
 | [uuid](https://www.npmjs.com/package/uuid) | Benzersiz ID üretimi |
 
 ## 📸 Ekran Görüntüsü
-
-> Projeyi çalıştırdıktan sonra ekran görüntüsü alıp buraya ekleyin.
-> `npm run dev` → tarayıcıda screenshot → `/public/screenshot.png` olarak kaydet.
+![Uygulama](./screenshot.png)
 
 ## 👤 Geliştirici
 
-**Adın Soyadın**
-- GitHub: [@kullanici_adin](https://github.com/kullanici_adin)
+- GitHub: [@zuleyha04](https://github.com/zuleyha04)
 
 ---
 
